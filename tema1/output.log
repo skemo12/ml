@@ -1,0 +1,1324 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.25)  28 APR 2024 21:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**output.tex
+(./output.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen139
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks18
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks19
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+)
+\MT@toks=\toks25
+\MT@count=\count272
+\MT@tempbox=\box52
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen148
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count273
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
+\MT@outer@space=\skip52
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count276
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count277
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen150
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count278
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count284
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count285
+\LTcapwidth=\dimen153
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count286
+\LT@rows=\count287
+\c@LT@tables=\count288
+\c@LT@chunks=\count289
+\LT@p@ftn=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
+\@cmidla=\count290
+\@cmidlb=\count291
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
+\@thisruleclass=\count292
+\@lastruleclass=\count293
+\@thisrulewidth=\dimen166
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty
+Package: footnotehyper 2021/08/13 v1.1e hyperref aware footnote.sty (JFB)
+\FNH@notes=\box58
+\FNH@width=\dimen167
+\FNH@toks=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count294
+\U@D=\dimen168
+\l@unhyphenated=\language3
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count295
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count296
+\l__pdf_internal_box=\box59
+)
+No file output.aux.
+\openout1 = `output.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Info: Redefining \microtypecontext on input line 70.
+Package microtype Info: Applying patch `item' on input line 70.
+Package microtype Info: Applying patch `toc' on input line 70.
+Package microtype Info: Applying patch `eqnum' on input line 70.
+Package microtype Info: Applying patch `footnote' on input line 70.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 70.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count297
+\scratchdimen=\dimen169
+\scratchbox=\box60
+\nofMPsegments=\count298
+\nofMParguments=\count299
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen170
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
+\everyMPtoPDFconversion=\toks29
+)
+Package hyperref Info: Link coloring OFF on input line 70.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count303
+)
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
+2.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
+2.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+72.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+72.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 72.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 72.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 72.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+5.
+
+(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7
+9.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
+114.
+
+(/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (164.24852pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Sedentary_hours_dail
+y\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Sed
+entary_hours_daily\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt/m/n
+/10 '\T1/lmtt/m/n/10 ,\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 .\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ).astype(float)[] 
+ []
+
+
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Age\TS1/lmtt/m/n/10 
+'\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Age\TS1/lmtt/m/n/10 '
+\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ,\TS1/lmtt/m/n/
+10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 .\TS1/lmtt/m/n/10 '\T1/
+lmtt/m/n/10 ).astype(float).astype(int)[] 
+ []
+
+
+Overfull \hbox (48.74886pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Est_avg_calorie_inta
+ke\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Es
+t_avg_calorie_intake\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ].astype(int)[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Height\TS1/lmtt/m/n/
+10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Height\TS1/lmtt/m/
+n/10 '\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ,\TS1/lmt
+t/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 .\TS1/lmtt/m/n/10
+ '\T1/lmtt/m/n/10 ).astype(float)[] 
+ []
+
+
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Water_daily\TS1/lmtt
+/m/n/10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Water_daily\T
+S1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10
+ ,\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 .\TS1/l
+mtt/m/n/10 '\T1/lmtt/m/n/10 ).astype(float)[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Weight\TS1/lmtt/m/n/
+10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Weight\TS1/lmtt/m/
+n/10 '\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ,\TS1/lmt
+t/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 .\TS1/lmtt/m/n/10
+ '\T1/lmtt/m/n/10 ).astype(float)[] 
+ []
+
+
+Overfull \hbox (185.24846pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Physical_activity_le
+vel\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 P
+hysical_activity_level\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt
+/m/n/10 '\T1/lmtt/m/n/10 ,\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 
+'\T1/lmtt/m/n/10 .\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ).astype(float)[] 
+ []
+
+
+Overfull \hbox (32.9989pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Technology_time_use\
+TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Techn
+ology_time_use\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ].astype(object)[] 
+ []
+
+
+Overfull \hbox (253.49826pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Main_meals_daily\TS1
+/lmtt/m/n/10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Main_mea
+ls_daily\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt/m/n/10 '\T1/l
+mtt/m/n/10 ,\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 .\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ).astype(float).astype(int).astype(object
+)[] 
+ []
+
+
+Overfull \hbox (274.4982pt too wide) in paragraph at lines 114--114
+[]    \T1/lmtt/m/n/10 df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Regular_fiber_diet\T
+S1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ] = df[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Regula
+r_fiber_diet\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ].str.replace(\TS1/lmtt/m/n/10 '\
+T1/lmtt/m/n/10 ,\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 .\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ).astype(float).astype(int).astype(ob
+ject)[] 
+ []
+
+
+Overfull \hbox (90.74873pt too wide) in paragraph at lines 114--114
+[]\T1/lmtt/m/n/10 train_df, test_df = train_test_split(statistics_df, test_size
+=0.2, random_state=42)[] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (1136.09988pt too wide) in alignment at lines 143--152
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1239.34833pt too wide) in alignment at lines 152--169
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 169.
+
+[2]
+Overfull \hbox (43.49887pt too wide) in paragraph at lines 236--236
+[]\T1/lmtt/m/n/10 from scipy.stats import tmean, tstd, median_abs_deviation, iq
+r, tmin, tmax[] 
+ []
+
+
+Overfull \hbox (101.2487pt too wide) in paragraph at lines 236--236
+[]\T1/lmtt/m/n/10 numerical_columns = statistics_df.select_dtypes(include=[\TS1
+/lmtt/m/n/10 '\T1/lmtt/m/n/10 int64\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmt
+t/m/n/10 '\T1/lmtt/m/n/10 float64\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ]).columns[]
+ 
+ []
+
+
+Overfull \hbox (185.24846pt too wide) in paragraph at lines 236--236
+[]        \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Mean Absolute Deviation\TS1/lmtt/m/
+n/10 '\T1/lmtt/m/n/10 : np.mean(np.abs(statistics_df[col] - np.mean(statistics_
+df[col]))),[] 
+ []
+
+
+Overfull \hbox (148.49857pt too wide) in paragraph at lines 236--236
+[]        \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Difference between Min and Max\TS1/
+lmtt/m/n/10 '\T1/lmtt/m/n/10 : tmax(statistics_df[col]) - tmin(statistics_df[co
+l]),[] 
+ []
+
+
+Overfull \hbox (122.24864pt too wide) in paragraph at lines 236--236
+[]        \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Median\TS1/lmtt/m/n/10 '\T1/lmtt/m/
+n/10 : np.median(statistics_df[col]),  # SciPy does not have a median function[
+] 
+ []
+
+
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 236--236
+[]        \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Median Absolute Deviation\TS1/lmtt/
+m/n/10 '\T1/lmtt/m/n/10 : median_abs_deviation(statistics_df[col]),[] 
+ []
+
+[3]
+Overfull \hbox (405.03174pt too wide) in alignment at lines 240--246
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (594.41988pt too wide) in alignment at lines 246--263
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 2 on input line 263.
+
+
+Overfull \hbox (164.24852pt too wide) in paragraph at lines 291--291
+[]\T1/lmtt/m/n/10 categorical_columns = statistics_df.select_dtypes(include=[\T
+S1/lmtt/m/n/10 '\T1/lmtt/m/n/10 object\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/
+lmtt/m/n/10 '\T1/lmtt/m/n/10 category\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/l
+mtt/m/n/10 '\T1/lmtt/m/n/10 int8\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ]).columns[] 
+
+ []
+
+
+Overfull \hbox (137.9986pt too wide) in paragraph at lines 291--291
+[]\T1/lmtt/m/n/10 unique_counts_df = pd.DataFrame.from_dict(results, orient=\TS
+1/lmtt/m/n/10 '\T1/lmtt/m/n/10 index\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , columns
+=[\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Unique Count\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/
+10 ])[] 
+ []
+
+
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 311--311
+[]\T1/lmtt/m/n/10 Index([\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Transportation\TS1/l
+mtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Regular_fiber_d
+iet\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Diagno
+stic_in_family_history\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ,[] 
+ []
+
+
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 311--311
+[]       \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 High_calorie_diet\TS1/lmtt/m/n/10 '\
+T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Alcohol\TS1/lmtt/m/n/10 '\T1
+/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Main_meals_daily\TS1/lmtt/m/n/
+10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Snacks\TS1/lmtt/m/n/10 
+'\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Smoker\TS1/lmtt/m/n/10 '\T
+1/lmtt/m/n/10 ,[] 
+ []
+
+
+Overfull \hbox (53.99884pt too wide) in paragraph at lines 311--311
+[]       \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Calorie_monitoring\TS1/lmtt/m/n/10 '
+\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Technology_time_use\TS1/lmt
+t/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Gender\TS1/lmtt/m
+/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Diagnostic\TS1/lmtt/
+m/n/10 '\T1/lmtt/m/n/10 ],[] 
+ []
+
+[4]
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 325--325
+[]        \T1/lmtt/m/n/10 statistics_df[column] = statistics_df[column].astype(
+\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 category\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ).c
+at.codes[] 
+ []
+
+
+Overfull \hbox (1136.09988pt too wide) in alignment at lines 327--336
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1420.72473pt too wide) in alignment at lines 336--415
+ [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 3 on input line 415.
+
+[5] [6]
+Overfull \hbox (53.99884pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 selector.fit_transform(X), columns=X.columns[selector
+.get_support()][] 
+ []
+
+
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 print(f"Features removed: {set(features_before) - set(X.c
+olumns)}")[] 
+ []
+
+
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 selector.fit_transform(X, y), columns=X.columns[selec
+tor.get_support()][] 
+ []
+
+
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 print(f"Features removed: {set(features_before) - set(X.c
+olumns)}")[] 
+ []
+
+
+Overfull \hbox (11.99896pt too wide) in paragraph at lines 660--660
+[]\T1/lmtt/m/n/10 def find_best_params(classifier, param_grid, X, y, random_sta
+te=42):[] 
+ []
+
+[7]
+Overfull \hbox (74.99878pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 # Convert the custom scorer into a scorer that can be use
+d with GridSearchCV[] 
+ []
+
+
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 "precision": make_scorer(precision_score, average="we
+ighted"),[] 
+ []
+
+
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 for scr in [accuracy_score, f1_score, precision_score, re
+call_score]:[] 
+ []
+
+
+Overfull \hbox (11.99896pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 scorers[f"{scr.__name__}_D{class_label}"] = make_
+scorer([] 
+ []
+
+
+Overfull \hbox (53.99884pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 model: ClassifierMixin, grid_search: GridSearchCV, X, y, 
+random_state=42[] 
+ []
+
+[8]
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 for scr in [accuracy_score, f1_score, precision_score, re
+call_score]:[] 
+ []
+
+
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 columns.append(f"mean_test_{scr.__name__}_D{class
+_label}")[] 
+ []
+
+
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 columns.append(f"std_test_{scr.__name__}_D{class_
+label}")[] 
+ []
+
+
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 rename_params_to = ",".join([x for x in grid_search.best_
+params_])[] 
+ []
+
+
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 for scr in [accuracy_score, f1_score, precision_score
+, recall_score]:[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 cols.append(f"mean_test_{scr.__name__}_D{class_la
+bel}")[] 
+ []
+
+
+Overfull \hbox (1.499pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 cols.append(f"std_test_{scr.__name__}_D{class_lab
+el}")[] 
+ []
+
+[9]
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 for scr in [accuracy_score, f1_score, precision_score
+, recall_score]:[] 
+ []
+
+
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 renamed_cols.append(f"{scr.__name__}_D{class_labe
+l}_std")[] 
+ []
+
+
+Overfull \hbox (148.49857pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 # the_table = ax.table(cellText=dfs[-1].values,colLab
+els=dfs[-1].columns,loc=\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 center\TS1/lmtt/m/n/1
+0 '\T1/lmtt/m/n/10 )[] 
+ []
+
+
+Overfull \hbox (195.74843pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 # #https://stackoverflow.com/questions/4042192/reduce
+-left-and-right-margins-in-matplotlib-plot[] 
+ []
+
+
+Overfull \hbox (122.24864pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 #     index=False,  # To not include the DataFrame in
+dex as a column in the table[] 
+ []
+
+
+Overfull \hbox (347.99799pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 #     # caption="Comparison of ML Model Performance M
+etrics",  # The caption to appear above the table in the LaTeX document[] 
+ []
+
+
+Overfull \hbox (248.24828pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 #     # label="tab:model_comparison",  # A label used
+ for referencing the table within the LaTeX document[] 
+ []
+
+
+Overfull \hbox (400.49783pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 #     # position="htbp",  # The preferred positions w
+here the table should be placed in the document (\TS1/lmtt/m/n/10 '\T1/lmtt/m/n
+/10 here\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 t
+op\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 bottom\
+TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 page\TS1/l
+mtt/m/n/10 '\T1/lmtt/m/n/10 )[] 
+ []
+
+
+Overfull \hbox (274.4982pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 #     # column_format="|l|l|l|l|",  # The format of t
+he columns: left-aligned with vertical lines between them[] 
+ []
+
+
+Overfull \hbox (132.74861pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 #     # escape=False,  # Disable escaping LaTeX speci
+al characters in the DataFrame[] 
+ []
+
+
+Overfull \hbox (101.2487pt too wide) in paragraph at lines 660--660
+[]        \T1/lmtt/m/n/10 #     # float_format="{:0.4f}".format  # Formats floa
+ts to two decimal places[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 # {\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 selector\TS1
+/lmtt/m/n/10 '\T1/lmtt/m/n/10 : \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 th\TS1/lmtt/m
+/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 props\TS1/lmtt/m/n/1
+0 '\T1/lmtt/m/n/10 : [(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 font-size\TS1/lmtt/m/n
+/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 10pt\TS1/lmtt/m/n/10 '
+\T1/lmtt/m/n/10 )]},[] 
+ []
+
+
+Overfull \hbox (1.499pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 # {\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 selector\TS1
+/lmtt/m/n/10 '\T1/lmtt/m/n/10 : \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 td\TS1/lmtt/m
+/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 props\TS1/lmtt/m/n/1
+0 '\T1/lmtt/m/n/10 : [(\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 font-size\TS1/lmtt/m/n
+/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 10pt\TS1/lmtt/m/n/10 '
+\T1/lmtt/m/n/10 )]}[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 # latex = dfs[-1].to_latex(index=False, float_for
+mat="{:0.4f}".format)[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 660--660
+[]    \T1/lmtt/m/n/10 precision = precision_score(y_test, y_pred, average="weig
+hted")[] 
+ []
+
+[10]
+Overfull \hbox (90.74873pt too wide) in paragraph at lines 660--660
+[]            \T1/lmtt/m/n/10 y_test, y_pred, target_names=["D0", "D1", "D2", "
+D3", "D4", "D5", "D6"][] 
+ []
+
+
+Overfull \hbox (74.99878pt too wide) in paragraph at lines 677--677
+[]\T1/lmtt/m/n/10 grid_search, best_params = find_best_params(clf, param_grid, 
+X, y, RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (358.49796pt too wide) in paragraph at lines 683--683
+[]\T1/lmtt/m/n/10 Features removed: {\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Est_avg_
+calorie_intake\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/
+n/10 Physical_activity_level\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/1
+0 '\T1/lmtt/m/n/10 Technology_time_use\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/
+lmtt/m/n/10 '\T1/lmtt/m/n/10 Sedentary_hours_daily\TS1/lmtt/m/n/10 '\T1/lmtt/m/
+n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Water_daily\TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 }[] 
+ []
+
+
+Overfull \hbox (85.49875pt too wide) in paragraph at lines 683--683
+[]\T1/lmtt/m/n/10 Best parameters found:  {\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 ma
+x_depth\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 : 20, \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/1
+0 max_samples\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 : 1.0, \TS1/lmtt/m/n/10 '\T1/lmt
+t/m/n/10 n_estimators\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 : 150}[] 
+ []
+
+
+Overfull \hbox (48.74886pt too wide) in paragraph at lines 695--695
+[]\T1/lmtt/m/n/10 best_clf = RandomForestClassifier(**best_params, random_state
+=RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (148.49857pt too wide) in paragraph at lines 695--695
+[]\T1/lmtt/m/n/10 accuracy, f1, precision, recall = evaluate_my_model(best_clf,
+ grid_search, X, y, RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (620.47516pt too wide) in alignment at lines 697--704
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (620.47516pt too wide) in alignment at lines 704--760
+ [] [] [] [] [] [] [] [] [] 
+ []
+
+[11] [12]
+Overfull \hbox (74.99878pt too wide) in paragraph at lines 809--809
+[]\T1/lmtt/m/n/10 grid_search, best_params = find_best_params(clf, param_grid, 
+X, y, RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 809--809
+[]\T1/lmtt/m/n/10 best_clf = ExtraTreesClassifier(**best_params, random_state=R
+ANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (80.24876pt too wide) in paragraph at lines 809--809
+[]\T1/lmtt/m/n/10 accuracy, f1, precision, recall = evaluate_my_model(best_clf,
+ X, y, RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (358.49796pt too wide) in paragraph at lines 814--814
+[]\T1/lmtt/m/n/10 Features removed: {\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Est_avg_
+calorie_intake\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/
+n/10 Physical_activity_level\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/lmtt/m/n/1
+0 '\T1/lmtt/m/n/10 Technology_time_use\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 , \TS1/
+lmtt/m/n/10 '\T1/lmtt/m/n/10 Sedentary_hours_daily\TS1/lmtt/m/n/10 '\T1/lmtt/m/
+n/10 , \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 Water_daily\TS1/lmtt/m/n/10 '\T1/lmtt/
+m/n/10 }[] 
+ []
+
+
+Overfull \hbox (48.74886pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 -------------------------------------------------------------
+--------------[] 
+ []
+
+
+Overfull \hbox (48.74886pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 KeyboardInterrupt                         Traceback (most rec
+ent call last)[] 
+ []
+
+
+Overfull \hbox (116.99866pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 ---> 16 grid_search, best_params = find_best_params(clf, para
+m_grid, X, y, RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (80.24876pt too wide) in paragraph at lines 938--938
+[]     \T1/lmtt/m/n/10 17 best_clf = ExtraTreesClassifier(**best_params, random
+_state=RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (122.24864pt too wide) in paragraph at lines 938--938
+[]     \T1/lmtt/m/n/10 18 accuracy, f1, precision, recall = evaluate_my_model(b
+est_clf, X, y, RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (111.74867pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 Cell In[174], line 108, in find_best_params(classifier, param
+_grid, X, y, random_state)[] 
+ []
+
+
+Overfull \hbox (1.499pt too wide) in paragraph at lines 938--938
+[]    \T1/lmtt/m/n/10 111 print("Best parameters found: ", grid_search.best_par
+ams_)[] 
+ []
+
+[13]
+Overfull \hbox (410.9978pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/sklearn/base.py:14
+74, in _fit_context.<locals>.decorator.<locals>.wrapper(estimator, *args, **kwa
+rgs)[] 
+ []
+
+
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1471         prefer_skip_nested_validation or global_skip_
+validation[] 
+ []
+
+
+Overfull \hbox (305.99811pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/sklearn/model_sele
+ction/_search.py:970, in BaseSearchCV.fit(self, X, y, **params)[] 
+ []
+
+
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 938--938
+[]    \T1/lmtt/m/n/10 965         all_candidate_params, n_splits, all_out, all_
+more_results[] 
+ []
+
+
+Overfull \hbox (43.49887pt too wide) in paragraph at lines 938--938
+[]    \T1/lmtt/m/n/10 972 # multimetric is determined here because in the case 
+of a callable[] 
+ []
+
+
+Overfull \hbox (1.499pt too wide) in paragraph at lines 938--938
+[]    \T1/lmtt/m/n/10 973 # self.scoring the return type is only known after ca
+lling[] 
+ []
+
+
+Overfull \hbox (379.4979pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/sklearn/model_sele
+ction/_search.py:1527, in GridSearchCV._run_search(self, evaluate_candidates)[]
+ 
+ []
+
+
+Overfull \hbox (531.74745pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/sklearn/model_sele
+ction/_search.py:916, in BaseSearchCV.fit.<locals>.evaluate_candidates(candidat
+e_params, cv, more_results)[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 938--938
+[]    \T1/lmtt/m/n/10 912             n_splits, n_candidates, n_candidates * n_
+splits[] 
+ []
+
+
+Overfull \hbox (64.49881pt too wide) in paragraph at lines 938--938
+[]    \T1/lmtt/m/n/10 928     for (cand_idx, parameters), (split_idx, (train, t
+est)) in product([] 
+ []
+
+[14]
+Overfull \hbox (43.49887pt too wide) in paragraph at lines 938--938
+[]    \T1/lmtt/m/n/10 930         enumerate(cv.split(X, y, **routed_params.spli
+tter.split)),[] 
+ []
+
+
+Overfull \hbox (227.24834pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/sklearn/utils/para
+llel.py:67, in Parallel.__call__(self, iterable)[] 
+ []
+
+
+Overfull \hbox (200.99841pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/joblib/parallel.py
+:1952, in Parallel.__call__(self, iterable)[] 
+ []
+
+
+Overfull \hbox (69.7488pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1946 # The first item from the output is blank, but it mak
+es the interpreter[] 
+ []
+
+
+Overfull \hbox (53.99884pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1947 # progress until it enters the Try/Except block of th
+e generator and[] 
+ []
+
+
+Overfull \hbox (32.9989pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1948 # reach the first \TS1/lmtt/m/n/10 `\T1/lmtt/m/n/10 y
+ield\TS1/lmtt/m/n/10 ` \T1/lmtt/m/n/10 statement. This starts the aynchronous[]
+ 
+ []
+
+
+Overfull \hbox (295.49814pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/joblib/parallel.py
+:1595, in Parallel._get_outputs(self, iterator, pre_dispatch)[] 
+ []
+
+
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1598     # The generator has been garbage collected before
+ being fully[] 
+ []
+
+
+Overfull \hbox (53.99884pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1599     # consumed. This aborts the remaining tasks if po
+ssible and warn[] 
+ []
+
+
+Overfull \hbox (153.74855pt too wide) in paragraph at lines 938--938
+[]\T1/lmtt/m/n/10 File ~/.local/lib/python3.10/site-packages/joblib/parallel.py
+:1707, in Parallel._retrieve(self)[] 
+ []
+
+
+Overfull \hbox (43.49887pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1702 # If the next job is not ready for retrieval yet, we 
+just wait for[] 
+ []
+
+
+Overfull \hbox (1.499pt too wide) in paragraph at lines 938--938
+[]   \T1/lmtt/m/n/10 1710 # We need to be careful: the job list can be filling 
+up as[] 
+ []
+
+[15]
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 963--963
+[]\T1/lmtt/m/n/10 best_params = find_best_params(clf, param_grid, X, y, RANDOM_
+STATE)[] 
+ []
+
+
+Overfull \hbox (1.499pt too wide) in paragraph at lines 963--963
+[]\T1/lmtt/m/n/10 best_clf = XGBClassifier(**best_params, random_state=RANDOM_S
+TATE)[] 
+ []
+
+
+Overfull \hbox (80.24876pt too wide) in paragraph at lines 963--963
+[]\T1/lmtt/m/n/10 accuracy, f1, precision, recall = evaluate_my_model(best_clf,
+ X, y, RANDOM_STATE)[] 
+ []
+
+
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 987--987
+[]    \TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 C\TS1/lmtt/m/n/10 '\T1/lmtt/m/n/10 : [0
+.1, 1, 10, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000],[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 987--987
+[]\T1/lmtt/m/n/10 best_params = find_best_params(clf, param_grid, X, y, RANDOM_
+STATE)[] 
+ []
+
+
+Overfull \hbox (80.24876pt too wide) in paragraph at lines 987--987
+[]\T1/lmtt/m/n/10 accuracy, f1, precision, recall = evaluate_my_model(best_clf,
+ X, y, RANDOM_STATE)[] 
+ []
+
+[16]
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+[17] (./output.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 13569 strings out of 480247
+ 216278 string characters out of 5896151
+ 579014 words of memory out of 5000000
+ 31248 multiletter control sequences out of 15000+600000
+ 499086 words of font info for 70 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 74i,5n,77p,1003b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
+vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on output.pdf (17 pages, 139684 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
+ 18441 words of extra memory for PDF output out of 20736 (max. 10000000)
+
